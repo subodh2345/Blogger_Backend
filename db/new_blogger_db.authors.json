@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "653f8fa5b10ab615e0decfb4"
+  },
+  "first_name": "Ashish",
+  "last_name": "chawre",
+  "email": "ashish@gmail.com",
+  "phone": "1234567894",
+  "status": "1"
+},
+{
+  "_id": {
+    "$oid": "6570188bfa1808e21f45886e"
+  },
+  "first_name": "Harsh",
+  "last_name": "Gadekar",
+  "email": "Harsh@gmail.com",
+  "phone": 1478523691,
+  "status": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657018cdfa1808e21f458870"
+  },
+  "first_name": "Arya",
+  "last_name": "Jawale",
+  "email": "Arya@gmail.com",
+  "phone": {
+    "$numberLong": "2584412512"
+  },
+  "status": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65701908fa1808e21f458872"
+  },
+  "first_name": "Samir",
+  "last_name": "Bante",
+  "email": "Samir@gmail.com",
+  "phone": {
+    "$numberLong": "2584412512"
+  },
+  "status": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65702780b0d38958715e9e9d"
+  },
+  "first_name": "Subodh",
+  "last_name": "Jambhulkar",
+  "email": "Subodh@gmail.com",
+  "phone": 1234567892,
+  "status": "1",
+  "__v": 0
+}]

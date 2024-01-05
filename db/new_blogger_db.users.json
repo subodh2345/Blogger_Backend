@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "650b008411a8985da8d6a1da"
+  },
+  "first_name": "Subodh",
+  "last_name": "Jambhulkar",
+  "email": "Subodh@gmail.com",
+  "address": "Bhandara"
+},
+{
+  "_id": {
+    "$oid": "650b022911a8985da8d6a1db"
+  },
+  "first_name": "Ashish",
+  "last_name": "Chawre",
+  "email": "Ashish@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "657150bc13edaeb5a9cd2e0c"
+  },
+  "first_name": "Himani",
+  "last_name": "Patle",
+  "email": "Himani@gmail.com",
+  "__v": 0,
+  "address": "Nagpur"
+},
+{
+  "_id": {
+    "$oid": "6571515113edaeb5a9cd2e0e"
+  },
+  "first_name": "Harsh",
+  "last_name": "Gadekar",
+  "email": "Harsh@gmail.com",
+  "address": "Uday Nagar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572a1e261abb68693307a22"
+  },
+  "first_name": "Gaurav",
+  "last_name": "Timande",
+  "email": "Gaurav@gmail.com",
+  "address": "Nagpur",
+  "__v": 0
+}]

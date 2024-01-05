@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "650d05c60e9713dd52e79e00"
+  },
+  "title": "this is new post",
+  "description": "this is new post",
+  "status": "1"
+},
+{
+  "_id": {
+    "$oid": "656c6a41b2c47377eaeb9024"
+  },
+  "title": "India",
+  "description": "Schools, colleges shut in Chennai for fifth day straight, more rain on cards",
+  "status": "1"
+},
+{
+  "_id": {
+    "$oid": "656ebdfc3d6fb128ada4cd54"
+  },
+  "title": "sports",
+  "description": "Moeen Ali backs team to defend T20 World Cup title in 2024",
+  "status": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ebe3c3d6fb128ada4cd57"
+  },
+  "title": "Business",
+  "description": "Adani Green Energy shares jump over 18% today. Here’s why",
+  "status": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ebf943d6fb128ada4cd5a"
+  },
+  "title": "WORLD",
+  "description": "China has no intention to 'challenge or unseat' the US: Official",
+  "status": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572a52161abb68693307a28"
+  },
+  "title": "Fact Check",
+  "description": "Tamil Nadu and Andhra Pradesh are on high alert with severe storms as Cyclone Michaung hit the southern India coast on December 5. Rains have caused at least 12 deaths so far.",
+  "status": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657a8c6be1de58ffc12c30e2"
+  },
+  "title": "How to keep your liver healthy this winter",
+  "description": "With the festive cheer hanging in the air and the calendar inching closer to the grand celebrations of Christmas and New Year, the time has arrived to show your liver the utmost care and consideration.",
+  "status": "1",
+  "__v": 0
+}]

@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "657072ab105c4203a1ab756e"
+  },
+  "cat_name": "technology",
+  "cat_description": "technology",
+  "status": "1",
+  "created": {
+    "$date": "2023-12-06T13:10:03.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657073a2b5bf5d79620135bf"
+  },
+  "cat_name": "elections",
+  "cat_description": "Kamal Nath hands bouquet to Shivraj Chouhan, congratulates him for BJP's win",
+  "status": "1",
+  "created": {
+    "$date": "2023-12-06T13:14:10.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571483c28b83c937110fd7d"
+  },
+  "cat_name": "world",
+  "cat_description": "world1",
+  "status": "1",
+  "created": {
+    "$date": "2023-12-07T04:21:16.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571488a28b83c937110fd80"
+  },
+  "cat_name": "Science",
+  "cat_description": "Science1",
+  "status": "1",
+  "created": {
+    "$date": "2023-12-07T04:22:34.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65714a0828b83c937110fd86"
+  },
+  "cat_name": "Business",
+  "cat_description": "Adani Group’s windfall gains continue, market cap nears Rs 15 lakh crore",
+  "status": "1",
+  "created": {
+    "$date": "2023-12-07T04:28:56.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65729a5f6614546418b28cd9"
+  },
+  "cat_name": "India",
+  "cat_description": "Why US, Canada not keen to take action against Khalistani elements? Experts speak",
+  "status": "1",
+  "created": {
+    "$date": "2023-12-08T04:23:59.043Z"
+  },
+  "__v": 0
+}]
